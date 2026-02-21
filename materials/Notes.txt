@@ -1,0 +1,32 @@
+https://ruwix.com/the-rubiks-cube/notation/
+U: F -> L -> B -> R -> F
+D: F -> R -> B -> L -> F 
+
+L: B -> U -> F -> D -> B
+R: B -> D -> F -> U -> B
+
+F: L -> U -> R -> D -> L
+B: L -> D -> R -> U -> L
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
