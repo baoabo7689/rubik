@@ -42,7 +42,7 @@ body {
 
   .btn-blue {
     @apply rounded-md border border-blue-600 bg-blue-600 px-4 py-2 text-sm font-medium text-white transition-colors hover:bg-blue-700;
-    width: 200px;
+    width: 140px;
   }
 
   .btn-blue-small {
